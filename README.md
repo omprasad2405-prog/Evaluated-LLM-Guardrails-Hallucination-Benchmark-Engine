@@ -12,7 +12,7 @@ An AI safety, input sanitization, and automated evaluation framework that interc
 ## 🚀 Live Demo
 
 Try the interactive evaluation dashboard:  
-👉 **[Launch Streamlit App](https://YOUR_STREAMLIT_APP_LINK_HERE.streamlit.app)**
+👉 **[Launch Streamlit App](https://evaluated-llm-guardrails-hallucination-benchmark-engine-pypraw.streamlit.app/)**
 
 ---
 
